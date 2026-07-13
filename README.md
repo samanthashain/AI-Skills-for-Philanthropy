@@ -6,16 +6,7 @@ Great ideas need a home. The goal of this repo is to collect and share a trustwo
 TBD
 
 # Skill Skeleton
-Each Skill file should include:
-## Purpose
-## When to Use
-## When NOT to Use
-## Required Inputs and Context
-## AI Workflow
-## Output Format
-## Human Review or Decision Points
-## Quality Checklist
-## Examples
+Use the template file stored in /Utils and /Skills to get started!
 
 # Project Milestones
 TBD
