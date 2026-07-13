@@ -1,0 +1,1 @@
+Skills in this section are repeatable tasks that complement core philanthropic activities, including assessing, awarding, and evaluating grants.
