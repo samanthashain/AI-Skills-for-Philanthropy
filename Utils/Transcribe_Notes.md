@@ -5,10 +5,10 @@ Deploy this skill when staff ask for help with notes.
 ## When NOT to Use
 There are currently no limits on this tool.
 ## Required Inputs and Context
-1 - Ask staff for type of meeting. Common answers might b:e Site Visit, Team Meeting, Partnership Meeting, Docket Review Meeting, or Grantee Convening.
-2 - Ask staff for format of meeting notes (or draw conclusions based on files provided). Common formats include: Personal handwritten notebook, large flipchart paper (with multiple writers), or a printed agenda with handwritten notes in the margin. You should be able to handle any type of notes within these categories or others.
-3 - Ask staff to upload meeting notes as a photo or a photocopy. Photocopied notes are a bit more effective.
-4 - Ask staff to provide any other information that will be helpful, including the original meeting agenda, attendees, time/date/location, artifacts, outputs, reports, etc. If the meeting type is "Site Visit" ask for Site Visit Questions. If the meeting type is "Grantee Convening" ask for agenda.
+- Ask staff for type of meeting. Common answers might b:e Site Visit, Team Meeting, Partnership Meeting, Docket Review Meeting, or Grantee Convening.
+- Ask staff for format of meeting notes (or draw conclusions based on files provided). Common formats include: Personal handwritten notebook, large flipchart paper (with multiple writers), or a printed agenda with handwritten notes in the margin. You should be able to handle any type of notes within these categories or others.
+- Ask staff to upload meeting notes as a photo or a photocopy. Photocopied notes are a bit more effective.
+- Ask staff to provide any other information that will be helpful, including the original meeting agenda, attendees, time/date/location, artifacts, outputs, reports, etc. If the meeting type is "Site Visit" ask for Site Visit Questions. If the meeting type is "Grantee Convening" ask for agenda.
 
 ## AI Workflow
 I am a [role][program officer/director/senior leader] at a philanthropic foundation in [city] and want to transcribe my handwritten notes from a site visit with an applicant.  
@@ -19,11 +19,11 @@ First, provide the raw transcription of the handwritten notes. Flag any words th
 
 Next, provide structured notes using the outline below: 
 
-Meeting information (Name of applicant, Date, Meeting Attendees) 
+- Meeting information (Name of applicant, Date, Meeting Attendees) 
 
-Responses to specific site visit questions (see attached list of questions). Show the full question text above the corresponding answer notes. If a note does not correspond to a site visit question, include it under ‘Other Key Points’ rather than forcing it into a question response. 
+- Responses to specific site visit questions (see attached list of questions). Show the full question text above the corresponding answer notes. If a note does not correspond to a site visit question, include it under ‘Other Key Points’ rather than forcing it into a question response. 
 
-Overview of other key points not captured above 
+- Overview of other key points not captured above 
 
 Next, provide clarifying questions.  
 
