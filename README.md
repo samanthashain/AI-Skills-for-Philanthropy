@@ -1,6 +1,6 @@
-# Claude-Philanthropy-Skill-Library
+# AI-Skills-for-Philanthropy
 
-Great ideas need a home. The goal of this repo is to collect and share a trustworthy source for Claude Skills that are relevant and beneficial for Foundations and other Philanthropic and Grantmaking social impact organizations. Collaborators include Chantal (Coco) Forster, Sarah Small, Hannah Kahn, Samantha Shain.
+Great ideas need a home. The goal of this repo is to collect and share a trustworthy source for AI Skills that are relevant and beneficial for Foundations and other Philanthropic and Grantmaking social impact organizations. Collaborators include Chantal (Coco) Forster, Sarah Small, Hannah Kahn, Samantha Shain.
 
 # Purpose
 1. Advance and upskill the field through sharing and collaboration
